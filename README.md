@@ -9,7 +9,6 @@ Website ini adalah portfolio statis yang dibuat menggunakan HTML dan CSS. Websit
 * **Proyek (experience):** Daftar pengalaman saya ketika berorganisasi maupun ketika kuliah.
 * **Proyek (Skills):** Daftar skills atau tools yang saya kuasai
 * **Proyek (Projects):** Daftar proyek yang pernah saya kerjakan.
-* **Kontak (Contact):** Cara menghubungi saya.
 
 ## Teknologi yang Digunakan
 * HTML5
