@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #2c3e50;    /* Biru Navy/Slate Gelap (untuk header/footer) */
+    --secondary-color: #3498db;  /* Biru Tenang (untuk link & hover) */
+    --text-color: #34495e;       /* Abu-abu Kebiruan (untuk teks utama) */
+    --text-light: #ecf0f1;       /* Putih Gading (teks di atas background gelap) */
+    --body-bg-color: #fdfdfa;    /* Krem Sangat Pucat (background utama) */
+    --card-bg-color: #ffffff;     /* Putih Bersih (background kartu) */
+    --border-color: #e0e0e0;     /* Abu-abu Muda (border & garis pemisah) */
+    --subtle-bg-color: #f8f9fa;  /* Latar Belakang Halus (untuk zebra/bio) */
+}
